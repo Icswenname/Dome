@@ -1,0 +1,14 @@
+{
+    "name": "icswenname/dome",
+    "description": "dev",
+    "type": "porject",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "icswenname",
+            "email": "style_wen_cn@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
